@@ -8,13 +8,13 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Flexbench',
   tagline: 'Simulation is awesome 🔥',
-  url: 'https://flexivial.github.io/',
+  url: 'https://kanha-13.github.io/',
   baseUrl: '/flexbench/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
 
-  organizationName: 'flexivian',
+  organizationName: 'kanha-13',
   projectName: 'flexbench',
 
   i18n: {
